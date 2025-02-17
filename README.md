@@ -51,5 +51,8 @@ Bachelor's in Software Engineering (BSSE)
 
 ## 📧 Contact
 
-[Email](mailto:harisaliqasim5@gmail.com) | [LinkedIn](https://www.linkedin.com/in/muhammad-haris-ali-3bab3a283) | [Portfolio](https://www.harisali.engineer)
+**Email**: [harisaliqasim5@gmail.com](mailto:harisaliqasim5@gmail.com)  
+**LinkedIn**: [HarisAli](https://www.linkedin.com/in/muhammad-haris-ali-3bab3a283)  
+**Portfolio**: [HarisEngineer](https://www.harisali.engineer)
+
 
