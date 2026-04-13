@@ -49,10 +49,5 @@ Bachelor's in Software Engineering (BSSE)
 2. Internship Certificate from GeekyBugs (React.js & Next.js)  
 3. React.js (META)
 
-## 📧 Contact
-
-**Email**: [harisaliqasim5@gmail.com](mailto:harisaliqasim5@gmail.com)  
-**LinkedIn**: [HarisAli](https://www.linkedin.com/in/muhammad-haris-ali-3bab3a283)  
-**Portfolio**: [HarisEngineer](https://www.harisali.engineer)
 
 
